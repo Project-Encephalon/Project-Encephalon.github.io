@@ -11,37 +11,39 @@ baseurl: ''
 lang: en-US
 
 # Change to your timezone › http://www.timezoneconverter.com/cgi-bin/findzone/findzone
-timezone: Asia/Shanghai
+timezone: Asia/Kolkata
 
 # jekyll-seo-tag settings › https://github.com/jekyll/jekyll-seo-tag/blob/master/docs/usage.md
 # --------------------------
-title: Chirpy                          # the main title
+title: Project Encephalon                          # the main title
 
-tagline: A text-focused Jekyll theme   # it will display as the sub-title
+tagline: Project Encephalon   # it will display as the sub-title
 
 description: >-                        # used by seo meta and the atom feed
-  A minimal, portfolio, sidebar,
-  bootstrap Jekyll theme with responsive web design
-  and focuses on text presentation.
+  Project Encephalon (PE) is an international, 
+  trainee-led non-profit, organisation for 
+  neuroscience enthusiasts and conducts various academic 
+  and non-academic neuroscience-related activities while 
+  accounting for the interdisciplinary needs of the field.
 
 # fill in the protocol & hostname for your site, e.g., 'https://username.github.io'
-url: ''
+url: 'https://Project-Encephalon.github.io'
 
 github:
-  username: github_username             # change to your github username
+  username: Project-Encephalon             # change to your github username
 
 twitter:
-  username: twitter_username            # change to your twitter username
+  username: prjctencephalon            # change to your twitter username
 
 social:
   # Change to your full name.
   # It will be displayed as the default author of the posts and the copyright owner in the Footer
-  name: your_full_name
-  email: example@doamin.com             # change to your email address
+  name: ProjectEncephalon
+  email: info@projectencephalon.org          # change to your email address
   links:
     # The first element serves as the copyright owner's link
-    - https://twitter.com/username      # change to your twitter homepage
-    - https://github.com/username       # change to your github homepage
+    - https://twitter.com/prjctencephalon      # change to your twitter homepage
+    - https://github.com/Project-Encephalon       # change to your github homepage
     # Uncomment below to add more social links
     # - https://www.facebook.com/username
     # - https://www.linkedin.com/in/username
@@ -67,7 +69,7 @@ google_analytics:
 #     light  - Use the light color scheme
 #     dark   - Use the dark color scheme
 #
-theme_mode:   # [light|dark]
+theme_mode:   dark # [light|dark]
 
 # The CDN endpoint for images.
 # Notice that once it is assigned, the CDN url
@@ -77,7 +79,7 @@ theme_mode:   # [light|dark]
 img_cdn: ''
 
 # the avatar on sidebar, support local or CORS resources
-avatar: https://cdn.jsdelivr.net/gh/cotes2020/chirpy-images/commons/avatar.jpg
+avatar: https://static.wixstatic.com/media/272f84_e79bfdedd05d4c70a11d93030d290d26~mv2.jpeg/v1/crop/x_87,y_96,w_581,h_564/fill/w_156,h_144,al_c,q_80,usm_0.66_1.00_0.01/272f84_e79bfdedd05d4c70a11d93030d290d26~mv2.webp
 
 # boolean type, the global switch for ToC in posts.
 toc: true
